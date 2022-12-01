@@ -3,7 +3,7 @@
 # merge操作
 考虑下面的一种情况：
 ```
-	A---B---C topic
+  A---B---C topic
  /
 D---E---F---G master
 ```
